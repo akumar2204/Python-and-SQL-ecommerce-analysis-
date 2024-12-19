@@ -73,12 +73,17 @@ Sample Insights
 2. Monthly cumulative sales trends.
 3. Year-over-year revenue growth percentage.
 4. Correlation between product prices and purchase frequency.
+5. examples
+
 
 Future Work
 1. Extend the analysis to include product-level performance.
 2. Implement machine learning models to predict future sales trends.
 3. Create a dashboard using tools like Power BI or Tableau.
 
+![Screenshot 2024-12-20 033911](https://github.com/user-attachments/assets/a7598037-3d60-4fbb-95e9-275d0f90797d)
+![Screenshot 2024-12-20 033859](https://github.com/user-attachments/assets/e9148ce3-ca67-4fb2-946a-5d483330f8df)
+![Screenshot 2024-12-20 033923](https://github.com/user-attachments/assets/6f448dd3-0a2b-4fcf-b259-9619ea1f4aa6)
 
 
 
